@@ -5,7 +5,7 @@ import React from "react";
 import Footer from "./footer";
 
 
-import { FooterData } from "../../data/data";
+import { FooterData } from "../data/data";
 
 
 

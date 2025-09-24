@@ -5,7 +5,7 @@ import React from "react"
 import Jumbotron from "./jumbotron"
 
 
-import { JumbotronData } from "../../data/data"
+import { JumbotronData } from "../data/data"
 
 
 

@@ -2,7 +2,7 @@ import React from "react";
 
 
 
-import { cardData } from "../../data/data";
+import { cardData } from "../data/data";
 
 
 import Card from "./card";
