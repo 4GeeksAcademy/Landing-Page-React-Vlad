@@ -5,13 +5,13 @@ export const cardData = [
     {
 
 
-        imageUrl: "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg",
+        imageUrl: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRoqowc19vr-GeeoEwhPwHrmpAqPZ16Nl3Dnh8erkDjcTxqXiP1r-nMjPGIxjAahIHZaWWrSkc7_Bg5oiskeuBlzHO_YwAPMvw9Vlqyr6HwIUiMOmM",
 
 
         title: "CARD 1",
 
 
-        text: "Descripción de la card 1",
+        text: "Descripción  card 1",
 
 
         buttonText: "Pulsa Aquí!"
@@ -20,13 +20,13 @@ export const cardData = [
 },   {
 
 
-        imageUrl: "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg",
+        imageUrl: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRoqowc19vr-GeeoEwhPwHrmpAqPZ16Nl3Dnh8erkDjcTxqXiP1r-nMjPGIxjAahIHZaWWrSkc7_Bg5oiskeuBlzHO_YwAPMvw9Vlqyr6HwIUiMOmM",
 
 
         title: "CARD 2",
 
 
-        text: "Descripción de la card 2",
+        text: "Descripción  card 2",
 
 
         buttonText: "Pulsa Aquí!"
@@ -35,13 +35,13 @@ export const cardData = [
 },   {
 
 
-        imageUrl: "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg",
+        imageUrl: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRoqowc19vr-GeeoEwhPwHrmpAqPZ16Nl3Dnh8erkDjcTxqXiP1r-nMjPGIxjAahIHZaWWrSkc7_Bg5oiskeuBlzHO_YwAPMvw9Vlqyr6HwIUiMOmM",
 
 
         title: "CARD 3",
 
 
-        text: "Descripción de la card 3",
+        text: "Descripción  card 3",
 
 
         buttonText: "Pulsa Aquí!"
@@ -50,13 +50,13 @@ export const cardData = [
 },   {
 
 
-        imageUrl: "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg",
+        imageUrl: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRoqowc19vr-GeeoEwhPwHrmpAqPZ16Nl3Dnh8erkDjcTxqXiP1r-nMjPGIxjAahIHZaWWrSkc7_Bg5oiskeuBlzHO_YwAPMvw9Vlqyr6HwIUiMOmM",
 
 
         title: "CARD 4",
 
 
-        text: "Descripción de la card 4",
+        text: "Descripción de  4",
 
 
         buttonText: "Pulsa Aquí!"
@@ -101,10 +101,10 @@ export const navBarData = [{
 export const JumbotronData = [{
 
 
-  title: "Este es el título de mi JumboTrom",
+  title: "Welcome people!!!!",
 
 
-  text: "Aqui se insertaria la descripción de mi jumbotron creado como un componente de react y totalmente reutilizable",
+  text: "Descripción...",
 
 
   buttonText: "Haz Click Aquí!!"
